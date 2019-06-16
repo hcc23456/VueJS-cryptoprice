@@ -1,29 +1,11 @@
-# crypto-price
+vue-cli v 3.8.2, axios v 0.19
 
-## Project setup
-```
-npm install
-```
+npm install -g @vue/cli
 
-### Compiles and hot-reloads for development
-```
+cd "project directory"
+
+npm install axios
+
+npm i vue bootstrap-vue bootstrap
+
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
